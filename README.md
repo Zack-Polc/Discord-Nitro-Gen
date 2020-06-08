@@ -1,6 +1,6 @@
 # Nitro Gen
 
-A script to generator strings that may be valid discord nitro codes. Use a checker to verify they are valid.
+A script to generate strings that may be valid discord nitro codes. Use a checker to verify they are valid.
 ## Installation
 
 Download python file, run it.
